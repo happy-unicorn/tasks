@@ -2,10 +2,11 @@
 
 ## My tasks
 
-| Name                                                                                      | Short Description                                          | Date       |
-| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
-| [ships](https://github.com/happy-unicorn/100days100projects/tree/main/ships)              | Task with ships                                            | 3-11-2020  |
-| ...                                                                                       | ...                                                        | ...        |
+| Name                                                                            | Short Description                                          | Date       |
+| ------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
+| [ships](https://github.com/happy-unicorn/tasks/blob/main/ships.js)              | Task with ships                                            | 3-11-2020  |
+| [merge](https://github.com/happy-unicorn/tasks/blob/main/merge.js)              | Task with merging arrays                                   | 3-11-2020  |
+| ...                                                                             | ...                                                        | ...        |
 
 ## Authors
 
