@@ -9,6 +9,7 @@
 | [twoSum](https://github.com/happy-unicorn/tasks/blob/main/twoSum.js)                 | Task with finding sum in array                             | 11-02-2021 |
 | [addTwoNumbers](https://github.com/happy-unicorn/tasks/blob/main/addTwoNumbers.js)   | Task with finding sum of two linked lists                  | 11-02-2021 |
 | [reverseInteger](https://github.com/happy-unicorn/tasks/blob/main/reverseInteger.js) | Task with reverse integer with limit                       | 19-02-2021 |
+| [isPalindrome](https://github.com/happy-unicorn/tasks/blob/main/isPalindrome.js)     | Task with reverse number is palindrome                     | 19-02-2021 |
 | ...                                                                                  | ...                                                        | ...        |
 
 ## Others
