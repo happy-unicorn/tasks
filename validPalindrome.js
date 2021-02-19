@@ -19,3 +19,17 @@ const isPalindrome2 = (sequence) => {
     }
     return true;
 };
+
+const isPalindrome3 = (s) => {
+    let sentence = s.replace (/[^a-zA-Z0-9]/g, "").toLowerCase();
+    let left = 0, right = sentence.length - 1; 
+    while (left < right){
+        if(sentence[left] !== sentence[right]){
+            return false; 
+        }
+        left++; 
+        right--;
+    }
+    
+    return true 
+};
