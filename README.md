@@ -14,6 +14,7 @@
 | [mergeTwoLists](https://github.com/happy-unicorn/tasks/blob/main/mergeTwoLists.js)     | Task with merge two lists                                  | 20-02-2021 |
 | [validPalindrome](https://github.com/happy-unicorn/tasks/blob/main/validPalindrome.js) | Task with valid palindrome                                 | 20-02-2021 |
 | [fizzBuzz](https://github.com/happy-unicorn/tasks/blob/main/fizzBuzz.js)               | Task with Fizz Buzz                                        | 21-02-2021 |
+| [removeElement](https://github.com/happy-unicorn/tasks/blob/main/removeElement.js)     | Task with remove element "in place"                        | 21-02-2021 |
 | ...                                                                                    | ...                                                        | ...        |
 
 ## Others
