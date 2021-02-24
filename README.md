@@ -17,6 +17,7 @@
 | [removeElement](https://github.com/happy-unicorn/tasks/blob/main/removeElement.js)        | Task with remove element "in place"                        | 21-02-2021 |
 | [removeDuplicates](https://github.com/happy-unicorn/tasks/blob/main/removeDuplicates.js)  | Task with remove duplicate                                 | 21-02-2021 |
 | [rotateArray](https://github.com/happy-unicorn/tasks/blob/main/rotateArray.js)            | Task with rotate array                                     | 21-02-2021 |
+| [sqrt](https://github.com/happy-unicorn/tasks/blob/main/sqrt.js)                          | Task with sqrt function                                    | 24-02-2021 |
 | ...                                                                                       | ...                                                        | ...        |
 
 ## Others
